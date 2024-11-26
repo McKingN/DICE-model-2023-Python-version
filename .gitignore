@@ -1,0 +1,9 @@
+*.spyproject
+__pycache__
+*.pyc
+*.nbi
+*.jpeg
+*.pdf
+*.xlsm
+
+
